@@ -1,0 +1,15 @@
+/* selector or type selector */
+/*
+selector {
+  property: value;
+  property: value;
+}
+*/
+
+mark {
+background-color: pink;
+  }
+/* class selector */
+.redlining {
+  color: red;
+  }
